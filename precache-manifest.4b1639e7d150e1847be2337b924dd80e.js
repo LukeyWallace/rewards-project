@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2db68e1b8f568ccc9e63",
+    "revision": "42bf88499298e3eedf17",
     "url": "/rewards-project/static/css/main.1d8d7695.chunk.css"
   },
   {
-    "revision": "2db68e1b8f568ccc9e63",
-    "url": "/rewards-project/static/js/main.2db68e1b.chunk.js"
+    "revision": "42bf88499298e3eedf17",
+    "url": "/rewards-project/static/js/main.42bf8849.chunk.js"
   },
   {
     "revision": "0a01b32b919826e0deb9",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/rewards-project/static/media/DRAGONBLOOD.9d290d5a.png"
   },
   {
-    "revision": "a3a985165c906b86f9c8d7719103250a",
+    "revision": "30112050e2c4545e5db02a757d3b29e5",
     "url": "/rewards-project/index.html"
   }
 ];
