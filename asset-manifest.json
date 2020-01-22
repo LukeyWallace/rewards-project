@@ -1,0 +1,23 @@
+{
+  "main.css": "/rewards-project/static/css/main.1d8d7695.chunk.css",
+  "main.js": "/rewards-project/static/js/main.a6215871.chunk.js",
+  "main.js.map": "/rewards-project/static/js/main.a6215871.chunk.js.map",
+  "runtime~main.js": "/rewards-project/static/js/runtime~main.0a01b32b.js",
+  "runtime~main.js.map": "/rewards-project/static/js/runtime~main.0a01b32b.js.map",
+  "static/js/2.ce1cdd22.chunk.js": "/rewards-project/static/js/2.ce1cdd22.chunk.js",
+  "static/js/2.ce1cdd22.chunk.js.map": "/rewards-project/static/js/2.ce1cdd22.chunk.js.map",
+  "index.html": "/rewards-project/index.html",
+  "precache-manifest.25909933cfe92d9bd34dc78ec0a25d48.js": "/rewards-project/precache-manifest.25909933cfe92d9bd34dc78ec0a25d48.js",
+  "service-worker.js": "/rewards-project/service-worker.js",
+  "static/css/main.1d8d7695.chunk.css.map": "/rewards-project/static/css/main.1d8d7695.chunk.css.map",
+  "static/media/BAOBAB.png": "/rewards-project/static/media/BAOBAB.d4c5279a.png",
+  "static/media/BONSAI.png": "/rewards-project/static/media/BONSAI.740d6278.png",
+  "static/media/DRAGONBLOOD.png": "/rewards-project/static/media/DRAGONBLOOD.9d290d5a.png",
+  "static/media/OAK.png": "/rewards-project/static/media/OAK.79525a35.png",
+  "static/media/PALM.png": "/rewards-project/static/media/PALM.a4d2885c.png",
+  "static/media/apple.png": "/rewards-project/static/media/apple.e5f5de89.png",
+  "static/media/bananas.png": "/rewards-project/static/media/bananas.f517d96b.png",
+  "static/media/jackfruit.png": "/rewards-project/static/media/jackfruit.7724a471.png",
+  "static/media/mango.png": "/rewards-project/static/media/mango.dee17e1c.png",
+  "static/media/pineapple.png": "/rewards-project/static/media/pineapple.c055f757.png"
+}
