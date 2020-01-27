@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6b181089a89cae59cd40",
+    "revision": "b00fe2e450b2b7664463",
     "url": "/rewards-project/static/css/main.156e7445.chunk.css"
   },
   {
-    "revision": "6b181089a89cae59cd40",
-    "url": "/rewards-project/static/js/main.6b181089.chunk.js"
+    "revision": "b00fe2e450b2b7664463",
+    "url": "/rewards-project/static/js/main.b00fe2e4.chunk.js"
   },
   {
     "revision": "0a01b32b919826e0deb9",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/rewards-project/static/media/SpeechBubble.10da46f6.png"
   },
   {
-    "revision": "f92fe994ec9a2c9c82b30ef9270cdd75",
+    "revision": "a91e86129d070386d7162d0bddbec0d6",
     "url": "/rewards-project/index.html"
   }
 ];
