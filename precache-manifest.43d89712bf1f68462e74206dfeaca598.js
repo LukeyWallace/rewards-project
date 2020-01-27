@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "45557aaacb2ce52f193a",
-    "url": "/rewards-project/static/css/main.1d8d7695.chunk.css"
+    "revision": "6b181089a89cae59cd40",
+    "url": "/rewards-project/static/css/main.156e7445.chunk.css"
   },
   {
-    "revision": "45557aaacb2ce52f193a",
-    "url": "/rewards-project/static/js/main.45557aaa.chunk.js"
+    "revision": "6b181089a89cae59cd40",
+    "url": "/rewards-project/static/js/main.6b181089.chunk.js"
   },
   {
     "revision": "0a01b32b919826e0deb9",
     "url": "/rewards-project/static/js/runtime~main.0a01b32b.js"
   },
   {
-    "revision": "fddef896084bfc2c8a4c",
-    "url": "/rewards-project/static/js/2.fddef896.chunk.js"
+    "revision": "b2a837d509ee936d814d",
+    "url": "/rewards-project/static/js/2.b2a837d5.chunk.js"
   },
   {
     "revision": "f517d96b559f17890451b14638aae7fc",
@@ -56,7 +56,11 @@ self.__precacheManifest = [
     "url": "/rewards-project/static/media/DRAGONBLOOD.9d290d5a.png"
   },
   {
-    "revision": "1fa92397949e9b8d4b462749086e071c",
+    "revision": "10da46f6a0b0e4cd7b65537746611000",
+    "url": "/rewards-project/static/media/SpeechBubble.10da46f6.png"
+  },
+  {
+    "revision": "f92fe994ec9a2c9c82b30ef9270cdd75",
     "url": "/rewards-project/index.html"
   }
 ];
